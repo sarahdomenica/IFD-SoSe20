@@ -20,19 +20,15 @@ Mit Axure können interaktive und responsive Konzepte geplant und gestaltet werd
     Mit Axure Cloud können funktionsübergreifende Teams zusammenarbeiten und bessere digitale Produkte liefern. Veröffentlichen Sie User Stories und Customer Journeys, damit jeder das Ziel versteht. Host Axure RP-Prototypen für Benutzertests, um sicherzustellen, dass das Problem behoben ist. Teilen Sie Design-Assets von Sketch, Figma und Adobe XD zur Überprüfung und Übergabe. Mit Axure Cloud for Business können Sie Konten und Berechtigungen auf unseren oder Ihren Servern verwalten.
 
 
-| Das kann Axure | im Detail |
+| Das kann Axure |  |
 | ------------------ | ------------------ |
 | **Dokumentation und Spezifikation** | Mit Axure RP Prozessabläufe, Produktabbrüche und visuelle Spezifikationen erstellen. |
 | **Funktionales Prototyping** | Axure RP verwenden, um umfangreiche funktionale Prototypen zu erstellen und zu testen, bevor die Entwicklung beginnt. |
+| **Design Prototyping** | schnell animierte, bildschirmbasierte Prototypen aus Bildern, Adobe XD-, Figma- oder Sketch-Zeichenflächen in Axure Cloud erstellen.  |
+| **Co-Authoring** | Mit Axure RP und Axure Cloud können mehrere Personen gleichzeitig an demselben Projekt arbeiten. |
+| **Geteilte Vermögenswerte** | Erstellen und teilen Sie mit Axure RP Bibliotheken interaktiver Komponenten und importieren Sie Assets aus Sketch, Figma oder Adobe XD.  |
+| **Entwicklerübergabe** | Veröffentlichen der Designs von RP, Figma, Adobe XD und Sketch in Axure Cloud für automatische Redlines sowie CSS- und Bildexport.  |
 
------------- | -------------
- **Dokumentation und Spezifikation** | Mit Axure RP Prozessabläufe, Produktabbrüche und visuelle Spezifikationen erstellen. 
-
- **Funktionales Prototyping** | Axure RP verwenden, um umfangreiche funktionale Prototypen zu erstellen und zu testen, bevor die Entwicklung beginnt. 
- **Design Prototyping** | schnell animierte, bildschirmbasierte Prototypen aus Bildern, Adobe XD-, Figma- oder Sketch-Zeichenflächen in Axure Cloud erstellen. 
- **Co-Authoring** | Mit Axure RP und Axure Cloud können mehrere Personen gleichzeitig an demselben Projekt arbeiten. 
- **Geteilte Vermögenswerte** | Erstellen und teilen Sie mit Axure RP Bibliotheken interaktiver Komponenten und importieren Sie Assets aus Sketch, Figma oder Adobe XD. 
- **Entwicklerübergabe** | Veröffentlichen der Designs von RP, Figma, Adobe XD und Sketch in Axure Cloud für automatische Redlines sowie CSS- und Bildexport. 
 
 
 
