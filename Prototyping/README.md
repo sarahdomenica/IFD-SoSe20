@@ -40,7 +40,7 @@ Axure eignet sich sowohl für..
 **Low-Fi**: Es gibt einen Low-Fi Modus, bei welchem keine Interaktion zustande kommt (siehe Bild weiter oben)
 **High-Fi**: Auch dieser Modus ist möglich, durch Buttons die man miteinander verbinden kann um eine tolle Interaktion zusatande kommen zu lassen.
 
-<img src="https://github.com/sarahdomenica/IFD-SoSe20/blob/master/Prototyping/Interaction.JPGalt="Interaktion" title="" />
+<img src="https://github.com/sarahdomenica/IFD-SoSe20/blob/master/Prototyping/Interaction.JPG" alt="Interaktion" title="" />
 
 ### b.) Visualisierung
 **Low-Fi**: 
