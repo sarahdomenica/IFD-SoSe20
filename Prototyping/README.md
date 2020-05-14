@@ -19,7 +19,7 @@ Mit Axure können interaktive und responsive Konzepte geplant und gestaltet werd
 * Axure Cloud für Unternehmen:
     Mit Axure Cloud können funktionsübergreifende Teams zusammenarbeiten und bessere digitale Produkte liefern. Veröffentlichen Sie User Stories und Customer Journeys, damit jeder das Ziel versteht. Host Axure RP-Prototypen für Benutzertests, um sicherzustellen, dass das Problem behoben ist. Teilen Sie Design-Assets von Sketch, Figma und Adobe XD zur Überprüfung und Übergabe. Mit Axure Cloud for Business können Sie Konten und Berechtigungen auf unseren oder Ihren Servern verwalten.
 
-
+------------ | -------------
 | **Dokumentation und Spezifikation** | Mit Axure RP Prozessabläufe, Produktabbrüche und visuelle Spezifikationen erstellen. |
 
 | **Funktionales Prototyping** | Axure RP verwenden, um umfangreiche funktionale Prototypen zu erstellen und zu testen, bevor die Entwicklung beginnt. |
