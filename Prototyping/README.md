@@ -8,7 +8,7 @@ Axure ist eine Leistungsstarkes **Prototyping Programm** bzw. **Wireframing-Tool
 Mit Axure können interaktive und responsive Konzepte geplant und gestaltet werden.
 
 * besitzt einen extra Low-Fi Modus
-<img src="Prototyping/LOFI.jpg" alt="Low-Fi Modus" title="" />
+<img src="https://github.com/sarahdomenica/IFD-SoSe20/blob/master/Prototyping/LOFI.JPG" alt="Low-Fi Modus" title="" />
 
 * Axure RP kombiniert 
     (-)leistungsstarke Designtools
