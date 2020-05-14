@@ -1,23 +1,3 @@
-<!DOCTYPE html>
-<html lang="de">
-    <head>
-        <meta charset="utf-8">
-        <title> Prototyping</title>
-        
-        <!-- viewport wird auf die Device-Breite initialisiert -->
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <link href="https://fonts.googleapis.com/css?family=Lato:700&display=swap" rel="stylesheet"> 
-		<link rel="stylesheet" type="text/css" href="css/invision.css">
-      
-		
-    </head>
-    <body>
-    	<main>
-
-
-
-
-
 # Aufgabe 2.1
 ## Axure
 
@@ -27,16 +7,16 @@
 Axure ist eine Leistungsstarkes **Prototyping Programm** bzw. **Wireframing-Tool**. 
 Mit Axure können interaktive und responsive Konzepte geplant und gestaltet werden.
 
-(-) besitzt einen extra Low-Fi Modus
+* besitzt einen extra Low-Fi Modus
 <img src="Prototyping/LOFI.jpg" alt="Low-Fi Modus" title="" />
 
-(-)Axure RP kombiniert 
+* Axure RP kombiniert 
     (-)leistungsstarke Designtools
     (-)SVG-Import 
     (-)sowie Sketch-, Figma- und Adobe XD-Integrationen 
     mit erstklassigem Prototyping
 
-(-)Axure Cloud für Unternehmen:
+* Axure Cloud für Unternehmen:
     Mit Axure Cloud können funktionsübergreifende Teams zusammenarbeiten und bessere digitale Produkte liefern. Veröffentlichen Sie User Stories und Customer Journeys, damit jeder das Ziel versteht. Host Axure RP-Prototypen für Benutzertests, um sicherzustellen, dass das Problem behoben ist. Teilen Sie Design-Assets von Sketch, Figma und Adobe XD zur Überprüfung und Übergabe. Mit Axure Cloud for Business können Sie Konten und Berechtigungen auf unseren oder Ihren Servern verwalten.
 
 
@@ -53,8 +33,8 @@ Mit Axure können interaktive und responsive Konzepte geplant und gestaltet werd
 ## Fidelity
 
 Axure eignet sich sowohl für..
-(-) ...**Low-Fi**
-(-)...als auch für **High-Fi**
+* ...**Low-Fi**
+* ...als auch für **High-Fi**
 
 ### a.) Interaktivität
 **Low-Fi**: Es gibt einen Low-Fi Modus, bei welchem keine Interaktion zustande kommt (siehe Bild weiter oben)
@@ -72,8 +52,8 @@ Beides möglich
 Ebenso beides möglich.
 
 ### Komplexität:
-(-) man benötigt keine Programmierkentnisse
-(-) man sollte etwas Englisch können, da man (meines Wissens nach) die Sprache nicht umstellen kann
+* man benötigt keine Programmierkentnisse
+* man sollte etwas Englisch können, da man (meines Wissens nach) die Sprache nicht umstellen kann
 
 
 
