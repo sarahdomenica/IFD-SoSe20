@@ -11,9 +11,9 @@ Mit Axure können interaktive und responsive Konzepte geplant und gestaltet werd
 <img src="https://github.com/sarahdomenica/IFD-SoSe20/blob/master/Prototyping/LOFI.JPG" alt="Low-Fi Modus" title="" />
 
 * Axure RP kombiniert 
-    (-)leistungsstarke Designtools
-    (-)SVG-Import 
-    (-)sowie Sketch-, Figma- und Adobe XD-Integrationen 
+    * leistungsstarke Designtools
+    * SVG-Import 
+    * sowie Sketch-, Figma- und Adobe XD-Integrationen 
     mit erstklassigem Prototyping
 
 * Axure Cloud für Unternehmen:
@@ -21,7 +21,7 @@ Mit Axure können interaktive und responsive Konzepte geplant und gestaltet werd
 
 
 | **Dokumentation und Spezifikation** | Mit Axure RP Prozessabläufe, Produktabbrüche und visuelle Spezifikationen erstellen. |
-| ------------------ | ------------------ |
+
 | **Funktionales Prototyping** | Axure RP verwenden, um umfangreiche funktionale Prototypen zu erstellen und zu testen, bevor die Entwicklung beginnt. |
 | **Design Prototyping** | schnell animierte, bildschirmbasierte Prototypen aus Bildern, Adobe XD-, Figma- oder Sketch-Zeichenflächen in Axure Cloud erstellen. |
 | **Co-Authoring** | Mit Axure RP und Axure Cloud können mehrere Personen gleichzeitig an demselben Projekt arbeiten. |
@@ -39,6 +39,8 @@ Axure eignet sich sowohl für..
 ### a.) Interaktivität
 **Low-Fi**: Es gibt einen Low-Fi Modus, bei welchem keine Interaktion zustande kommt (siehe Bild weiter oben)
 **High-Fi**: Auch dieser Modus ist möglich, durch Buttons die man miteinander verbinden kann um eine tolle Interaktion zusatande kommen zu lassen.
+
+<img src="https://github.com/sarahdomenica/IFD-SoSe20/blob/master/Prototyping/Interaction.JPGalt="Interaktion" title="" />
 
 ### b.) Visualisierung
 **Low-Fi**: 
@@ -60,6 +62,8 @@ Ebenso beides möglich.
 ### Beispiele:
 Eigenes Projekt:
 <https://d78d8t.axshare.com>
+
+* [Draggable Map with Filters](https://www.youtube.com/watch?v=-yBiMhgQVYI)
 
 
 ### Grenzen / Einschränkungen:
