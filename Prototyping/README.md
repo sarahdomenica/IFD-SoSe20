@@ -17,8 +17,7 @@ Mit Axure können interaktive und responsive Konzepte geplant und gestaltet werd
     mit erstklassigem Prototyping
 
 * Axure Cloud für Unternehmen:
-    Mit Axure Cloud können funktionsübergreifende Teams zusammenarbeiten und bessere digitale Produkte liefern. Veröffentlichen Sie User Stories und Customer Journeys, damit jeder das Ziel versteht. Host Axure RP-Prototypen für Benutzertests, um sicherzustellen, dass das Problem behoben ist. Teilen Sie Design-Assets von Sketch, Figma und Adobe XD zur Überprüfung und Übergabe. Mit Axure Cloud for Business können Sie Konten und Berechtigungen auf unseren oder Ihren Servern verwalten.
-
+    Mit Axure Cloud können funktionsübergreifende Teams zusammenarbeiten und bessere digitale Produkte liefern. Veröffentlichen von User Stories und Customer Journeys, damit jeder das Ziel versteht. Teilen von Design-Assets von Sketch, Figma und Adobe XD zur Überprüfung und Übergabe möglich. 
 
 | Das kann Axure |  |
 | ------------------ | ------------------ |
@@ -40,19 +39,20 @@ Axure eignet sich sowohl für..
 
 ### a.) Interaktivität
 **Low-Fi**: Es gibt einen Low-Fi Modus, bei welchem keine Interaktion zustande kommt (siehe Bild weiter oben)
-**High-Fi**: Auch dieser Modus ist möglich, durch Buttons die man miteinander verbinden kann um eine tolle Interaktion zusatande kommen zu lassen.
+**High-Fi**: Auch dieser Modus ist möglich, durch z.B.Buttons die man miteinander verbinden kann um eine tolle Interaktion zusatande kommen zu lassen. Oder ein Menü erstellen auf welches man zu den Unterpunkten gelangt etc.
 
 <img src="https://github.com/sarahdomenica/IFD-SoSe20/blob/master/Prototyping/Interaction.JPG" alt="Interaktion" title="" />
 
 ### b.) Visualisierung
 **Low-Fi**: 
 **High-Fi**:
-Beides möglich
+Beides möglich. 
+Durch die Integration von Figma Dateien kann man in Axure ebenso Protypes gut visualisieren.
 
 
 ### c.) Inhaltsentwicklung
-**Low-Fi**: 
-**High-Fi**:
+**Low-Fi**: Durch Platzhalter und ohne Text
+**High-Fi**: Wenn Buttons mit Text und Text im Allgemeinen eingefügt wird.
 Ebenso beides möglich.
 
 ### Komplexität:
@@ -66,7 +66,10 @@ Eigenes Projekt:
 <https://d78d8t.axshare.com>
 
 * [Draggable Map with Filters](https://www.youtube.com/watch?v=-yBiMhgQVYI)
+* [Axure verbunden mit Arduino](https://fabiankreuzer.de/quick-hack-arduino-kommuniziert-mit-axure/)
+* [Low-Fi Wireframing](https://yn35ft.axshare.com/off-canvas-menu.html)
 
 
 ### Grenzen / Einschränkungen:
-(-)
+* man benötigt eine **Lizenz** oder ein **Abonnement** (nach der kostenlosen Testphase), sofern man kein Student, Schüler oder Professor an einer Universität/Hochschule ist.
+* Axure exportiert nur HTML – Prototypen für Apps muss man im Browser der Mobilgeräte testen, was in den meisten Fällen. Nur wenn es um kompliziertere Gesten oder spezielle Interaktionen geht, stößt man dabei an seine Grenzen.
