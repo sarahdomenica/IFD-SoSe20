@@ -73,3 +73,9 @@ Eigenes Projekt:
 ### Grenzen / Einschränkungen:
 * man benötigt eine **Lizenz** oder ein **Abonnement** (nach der kostenlosen Testphase), sofern man kein Student, Schüler oder Professor an einer Universität/Hochschule ist.
 * Axure exportiert nur HTML – Prototypen für Apps muss man im Browser der Mobilgeräte testen, was in den meisten Fällen. Nur wenn es um kompliziertere Gesten oder spezielle Interaktionen geht, stößt man dabei an seine Grenzen.
+
+
+# Aufgabe 2.1
+## Prototyping Excel Daten
+
+<img src="https://github.com/sarahdomenica/IFD-SoSe20/blob/master/Prototyping/Prototyp Bild1.JPG" alt="Interaktion" title="" />
