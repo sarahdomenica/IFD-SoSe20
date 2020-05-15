@@ -78,4 +78,7 @@ Eigenes Projekt:
 # Aufgabe 2.1
 ## Prototyping Excel Daten
 
-<img src="https://github.com/sarahdomenica/IFD-SoSe20/blob/master/Prototyping/Prototyp Bild1.JPG" alt="Interaktion" title="" />
+<img src="https://github.com/sarahdomenica/IFD-SoSe20/blob/master/Prototyping/Prototyp Bild1.jpeg" alt="Start bzw. Üebrsicht der Werke" title="Start bzw. Üebrsicht der Werke" />
+<img src="https://github.com/sarahdomenica/IFD-SoSe20/blob/master/Prototyping/PrototypBild2 .jpeg" alt="Werke oder Mitarbeiter wählen" title="Werk oder Mitarbeiter" />
+<img src="https://github.com/sarahdomenica/IFD-SoSe20/blob/master/Prototyping/Prototyp Bild3.jpeg" alt="Beispiel Werk 1" title="Beispiel Werk 1" />
+<img src="https://github.com/sarahdomenica/IFD-SoSe20/blob/master/Prototyping/Prototyp Bild4.jpeg" alt="Beispiel Mitarbeiter" title="Mitarbeiter" />
