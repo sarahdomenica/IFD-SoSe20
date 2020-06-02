@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Playgroud Artyom</title>
+    <script src="js/libs/artyom.window.min.js"></script>
+    <script src="js/playgroud-artyom-script.js"></script>
+</head>
+<body>
+    <div>
+        <input type="button" onclick="startArtyom()" value="Start voice command"/><br>
+        <input type="button" onclick="stopArtyom()" value="Stopp listening"/><br>
+        <span id="output"></span>
+
+
+    </div>
+    <p>This is a playground to test the web-based capabilities for a <b>Voice User Interface</b> with artyom.</p>
+<script>
+
+
+window.addEventListener("load", function () {
+    var artyom = new Artyom();
+
+    artyom.addCommands({
+        indexes: ["Hallo" "Guten Morgen" *],
+        smart: true,
+        action: function (i, wildcard) {
+
+            if(i==0){
+                //you say:"hallo"
+                artyom.say("Hallo");
+            }
+            console.log("Neue Aufgabe wird erstellt: " + wildcard);
+        }
+    });
+
+
+function startContinuousArtyom() {
+    artyom.fatality();
+    setTimeout(function () {
+        artyom.initialize({
+            lang: "de-DE",
+            continuous: true,
+            listen: true,
+            interimResults: true,
+            debug: true
+        }).then(function () {
+            console.log("Ready!");
+        });
+    }, 250);</script>
+
+</body>
+</html>
