@@ -12,6 +12,6 @@ Abgaben Interface Design Sommersemster 2020
 <p><a href="Aufgabe 5/Browser-based_VUI/index.html">Aufgabe #5 </a></p>
 <p><a href="Aufgabe 6/Aufgabe 6.pdf">Aufgabe #6 </a></p>
 <p><a href="Aufgabe 7/Konzept VR Projekt.pdf">Aufgabe #7 </a></p>
-
+<p><a href="Aufgabe 7/Konzept VR Projekt.pdf">Aufgabe #7 </a></p>
 
 <p>von Sarah Willier</p>
